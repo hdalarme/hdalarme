@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-<details open>
   
+<details open>
   <summary>⚙ <b>GitHub Analytics</b>: </summary>
     <br>
     <p align="center">
