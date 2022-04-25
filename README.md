@@ -22,10 +22,7 @@ Here are some ideas to get you started:
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hdalarme&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/> 
     </p>
 
-![Snake animation](https://github.com/Platane/snk/blob/output/github-contribution-grid-snake.svg)
-    
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)    
+![Snake animation](https://github.com/hdalarme/hdalarme/blob/output/github-contribution-grid-snake.svg)  
 
 
 </details>
