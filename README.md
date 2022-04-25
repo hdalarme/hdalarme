@@ -1,6 +1,9 @@
 ### Olá! Eu sou o Helbertt Dalarme 👋
+ 
+![Helbertt GitHub stats](https://github-readme-stats.vercel.app/api?username=hdalarme&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdalarme&hide=python&langs_count=8&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -13,7 +16,6 @@
   <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <div>   
-  
 <!--
 **hdalarme/hdalarme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,17 +32,4 @@ Here are some ideas to get you started:
 -->
   
   
-<details open>
-  
-  
-  <summary>⚙ <b>GitHub Analytics</b>: </summary>
-    <br>
-    <p align="center">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hdalarme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hdalarme&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-    </p>
 
-![Snake animation](https://github.com/hdalarme/hdalarme/blob/output/github-contribution-grid-snake.svg)  
-
-
-</details>
