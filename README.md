@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
 <details open>
-    <summary>⚙ <b>GitHub Analytics</b>: </summary>
+  
+  <summary>⚙ <b>GitHub Analytics</b>: </summary>
     <br>
     <p align="center">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hdalarme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
