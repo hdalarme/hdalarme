@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Helbertt Dalarme 👋
  
 ![Helbertt GitHub stats](https://github-readme-stats.vercel.app/api?username=hdalarme&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdalarme&hide=python&langs_count=5&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdalarme&hide=python&langs_count=6&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
